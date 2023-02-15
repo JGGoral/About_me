@@ -1,4 +1,4 @@
-# About me
+# About me - why I decided to take up the challenge of getting to know and changing the industry.
 With almost a decade of successful experience in various management roles across different industries, I possess strong adaptability and the ability to thrive in new environments. After the Krakow project, I deliberately decided to redirect my professional pursuits toward the new technologies industry that has a high work culture, structured processes, and an international environment. I always leverage my diverse background, newly acquired knowledge, and interpersonal skills to bring value to the field.
 
 I know the importance of gaining technical knowledge in the field. I focused my first efforts on learning about software testing and I received the ISTQB certification. 
